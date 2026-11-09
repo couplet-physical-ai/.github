@@ -16,4 +16,3 @@ jobs:
     uses: couplet-physical-ai/.github/.github/workflows/dco.yml@main
 ```
 
-Source of these files: the private `Exowatt-Labs/oss-management` repo (`templates/`).
